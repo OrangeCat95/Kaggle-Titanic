@@ -1,4 +1,4 @@
-# Kaggle-Taianic
+# Kaggle-Titanic
 
 This is a repository that I make practice using python, sklearn and tensorflow. 
 
